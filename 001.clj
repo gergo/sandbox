@@ -1,0 +1,1 @@
+(take 100 (iterate inc 0))
